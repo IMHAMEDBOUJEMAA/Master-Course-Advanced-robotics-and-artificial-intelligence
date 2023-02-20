@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="02/02/23||15:14:49" using="Simscape Multibody Link Version 7.0" from="SolidWorks 30.2.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="" uid="" version="103">
+<AssemblyFile name="" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Gripper_finie-1" uid="Gripper_finie-1" grounded="true" entityUid="Gripper_finie" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.032412956960997101 -0.03022489361469068 0.085207451132660414</Translation>
+</Transform>
+<Instance name="Base Plate-1" uid="Base Plate-1" grounded="true" entityUid="Base Plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.041366196786502558 0.027732464926985962 0.075874096383475823</Translation>
+</Transform>
+</Instance>
+<Instance name="Gripper-2" uid="Gripper-2" entityUid="Gripper*:*Default">
+<Transform>
+<Rotation>0.33942956742868319 0 0.94063147340240394 0 1 0 -0.94063147340240394 0 0.33942956742868319</Rotation>
+<Translation>-0.062038187163386695 0.027732464926985962 0.038665141593308999</Translation>
+</Transform>
+</Instance>
+<Instance name="link-3" uid="link-3" entityUid="link*:*Default">
+<Transform>
+<Rotation>0.23135452828626052 0 -0.97286950935952465 0 1 0 0.97286950935952465 0 0.23135452828626052</Rotation>
+<Translation>-0.062038187163369923 0.021732464926985964 0.038665141593335908</Translation>
+</Transform>
+</Instance>
+<Instance name="link-4" uid="link-4" entityUid="link*:*Default">
+<Transform>
+<Rotation>0.11557334293087249 0 0.99329894916071626 0 1 0 -0.99329894916071626 0 0.11557334293087249</Rotation>
+<Translation>-0.02786619678650951 0.021732464926985877 0.068824096383472991</Translation>
+</Transform>
+</Instance>
+<Instance name="Base Gear-1" uid="Base Gear-1" entityUid="Base Gear*:*Default">
+<Transform>
+<Rotation>-0.2160325104458603 -2.8051052605399863e-16 -0.97638617074928902 1.5283271417337747e-16 1 -3.2110999762985588e-16 0.97638617074928902 -2.1859394747420634e-16 -0.2160325104458603</Rotation>
+<Translation>-0.033866196786482491 0.027232464926985955 0.089274096383483451</Translation>
+</Transform>
+</Instance>
+<Instance name="Gear Link 1-2" uid="Gear Link 1-2" entityUid="Gear Link 1*:*Default">
+<Transform>
+<Rotation>-0.23135452825255745 2.464232249698436e-16 0.97286950936753946 0 1 -2.652837803095613e-16 -0.97286950936753946 -1.104198760635259e-16 -0.23135452825255745</Rotation>
+<Translation>-0.054866196786496423 0.030732464926985961 0.068824096383480707</Translation>
+</Transform>
+</Instance>
+<Instance name="Base Mounting Bracket-2" uid="Base Mounting Bracket-2" entityUid="Base Mounting Bracket*:*Default">
+<Transform>
+<Rotation>3.3306690738754696e-16 0 1.0000000000000002 0 -1 0 1.0000000000000002 0 -3.3306690738754696e-16</Rotation>
+<Translation>-0.041366196786502551 0.027732464926985962 0.10015409638347579</Translation>
+</Transform>
+</Instance>
+<Instance name="Base Mounting Bracket-1" uid="Base Mounting Bracket-1" entityUid="Base Mounting Bracket*:*Default">
+<Transform>
+<Rotation>0 0 -1 0 1 0 1 0 0</Rotation>
+<Translation>-0.041366196786502545 0.030732464926985965 0.10015409638347582</Translation>
+</Transform>
+</Instance>
+<Instance name="link-2" uid="link-2" entityUid="link*:*Default">
+<Transform>
+<Rotation>-0.25659806107895289 0 0.96651820213099027 0 1 0 -0.96651820213099027 0 -0.25659806107895289</Rotation>
+<Translation>-0.046616196786501793 0.030732464926985961 0.047933313444536038</Translation>
+</Transform>
+</Instance>
+<Instance name="Gripper-3" uid="Gripper-3" entityUid="Gripper*:*Default">
+<Transform>
+<Rotation>0.33942956742868319 0 0.94063147340240394 0 1 0 -0.94063147340240394 0 0.33942956742868319</Rotation>
+<Translation>-0.062038187163386695 0.024732464926985963 0.038665141593308999</Translation>
+</Transform>
+</Instance>
+<Instance name="Gripper-4" uid="Gripper-4" entityUid="Gripper*:*Default">
+<Transform>
+<Rotation>-0.33074547437964974 -2.1757739550227432e-15 -0.94371999617332514 1.0296538570737508e-15 -1 1.9446664360823727e-15 -0.94371999617332514 -3.2851531114524289e-16 0.33074547437964974</Rotation>
+<Translation>-0.024283423155627998 0.02773246492698591 0.038031828959506422</Translation>
+</Transform>
+</Instance>
+<Instance name="link-5" uid="link-5" entityUid="link*:*Default">
+<Transform>
+<Rotation>0.25659806107895444 0 0.96651820213098993 0 -1 0 0.96651820213098993 0 -0.25659806107895444</Rotation>
+<Translation>-0.054570736679949307 0.024732464926985963 0.01797124917847541</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-2" uid="pin-2" entityUid="pin*:*Default">
+<Transform>
+<Rotation>0.99999960685669964 0 0.0008867279437863025 0 1 0 -0.0008867279437863025 0 0.99999960685669964</Rotation>
+<Translation>-0.027866196786502598 0.020732464926985942 0.068824096383475822</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-3" uid="pin-3" entityUid="pin*:*Default">
+<Transform>
+<Rotation>0.8614087675716845 0 0.50791233018172688 0 1 0 -0.50791233018172688 0 0.8614087675716845</Rotation>
+<Translation>-0.054866196786502557 0.020732464926985963 0.068824096383475822</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-4" uid="pin-4" entityUid="pin*:*Default">
+<Transform>
+<Rotation>0.85904132836699554 0 0.51190623766219878 0 1 0 -0.51190623766219878 0 0.85904132836699554</Rotation>
+<Translation>-0.046616196786502556 0.020732464926985949 0.047933313444535289</Translation>
+</Transform>
+</Instance>
+<Instance name="link-6" uid="link-6" entityUid="link*:*Default">
+<Transform>
+<Rotation>0.14697978046818405 0 -0.98913949680190449 0 -1 0 -0.98913949680190449 0 -0.14697978046818405</Rotation>
+<Translation>-0.036116196786503831 0.0247324649269859 0.047933313444534345</Translation>
+</Transform>
+</Instance>
+<Instance name="Gear Link 1-1" uid="Gear Link 1-1" entityUid="Gear Link 1*:*Default">
+<Transform>
+<Rotation>0.11557334296527952 2.7418394641735949e-15 0.99329894915671302 -1.6613667273973341e-15 1 -2.567031566641386e-15 -0.99329894915671302 -1.3535534048335567e-15 0.11557334296527952</Rotation>
+<Translation>-0.027866196786509825 0.030732464926985961 0.06882409638347288</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-5" uid="pin-5" entityUid="pin*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.036116196786502561 0.02073246492698598 0.047933313444535289</Translation>
+</Transform>
+</Instance>
+<Instance name="Gripper-1" uid="Gripper-1" entityUid="Gripper*:*Default">
+<Transform>
+<Rotation>-0.33074547437964974 -2.1758603893653367e-15 -0.94371999617332514 1.0296867710872952e-15 -1 1.9447464896807663e-15 -0.94371999617332514 -3.285198953926025e-16 0.33074547437964974</Rotation>
+<Translation>-0.024283423155627992 0.030732464926985909 0.038031828959506422</Translation>
+</Transform>
+</Instance>
+<Instance name="link-1" uid="link-1" entityUid="link*:*Default">
+<Transform>
+<Rotation>0.14697978046818871 2.1224926554434264e-15 0.98913949680190372 2.3238470540007602e-16 1 -2.1803279672889352e-15 -0.98913949680190372 5.5032501654466945e-16 0.14697978046818871</Rotation>
+<Translation>-0.036116196786504046 0.030732464926985961 0.047933313444534179</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-8" uid="pin-8" entityUid="pin*:*Default">
+<Transform>
+<Rotation>0.068656871043169532 0 0.9976403330151411 0 1 0 -0.9976403330151411 0 0.068656871043169532</Rotation>
+<Translation>-0.054570736679949619 0.020732464926985963 0.017971249178474466</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-9" uid="pin-9" entityUid="pin*:*Default">
+<Transform>
+<Rotation>0.70252107064091074 0 0.71166294360852356 0 1 0 -0.71166294360852356 0 0.70252107064091074</Rotation>
+<Translation>-0.062038187163373691 0.020732464926985963 0.038665141593329858</Translation>
+</Transform>
+</Instance>
+<Instance name="Base Plate-2" uid="Base Plate-2" entityUid="Base Plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.041366196786502551 0.024732464926985963 0.075874096383475823</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-7" uid="pin-7" entityUid="pin*:*Default">
+<Transform>
+<Rotation>0.8064816128177047 0 -0.59125917175715248 0 1 0 0.59125917175715248 0 0.8064816128177047</Rotation>
+<Translation>-0.024283423155648617 0.020732464926985876 0.038031828959493238</Translation>
+</Transform>
+</Instance>
+<Instance name="pin-6" uid="pin-6" entityUid="pin*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.031559823591989666 0.0207324649269859 0.017269989043676146</Translation>
+</Transform>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Gripper_finie" uid="Gripper_finie" version="291">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Gripper_finie.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Base Gear" uid="Base Gear*:*Default" version="152">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base Gear.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0023925888882278036</Mass>
+<CenterOfMass>0 0.0024777373132421759 0</CenterOfMass>
+<Inertia>7.114178352359696e-08 8.1168341185431138e-08 7.1141783523596695e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base Gear_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.62431372549019615" g="0.60862745098039217" b="0.5929411764705883" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base Mounting Bracket" uid="Base Mounting Bracket*:*Default" version="125">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base Mounting Bracket.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00064269578502266307</Mass>
+<CenterOfMass>0.0077303000078989261 0.0024139895028559865 0</CenterOfMass>
+<Inertia>2.3626413362400749e-08 2.8788298455440022e-08 1.118597853161905e-08 0 0 -2.9678789233181776e-09</Inertia>
+</MassProperties>
+<GeometryFile name="Base Mounting Bracket_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Base Plate" uid="Base Plate*:*Default" version="139">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Base Plate.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0041405530951580454</Mass>
+<CenterOfMass>-0.0011309252922789969 0.0015 -0.00087608041695238907</CenterOfMass>
+<Inertia>1.349474659045974e-06 1.968932622328691e-06 6.256687929254542e-07 0 3.6700467186905368e-08 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base Plate_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.62431372549019615" g="0.60862745098039217" b="0.5929411764705883" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Gear Link 1" uid="Gear Link 1*:*Default" version="136">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Gear Link 1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0020768147601832733</Mass>
+<CenterOfMass>0.005488849026350333 0.0015 2.1492850121701073e-08</CenterOfMass>
+<Inertia>7.3729244633828398e-08 3.6111390254462308e-07 2.9049987989368064e-07 0 -3.5217322699144974e-13 0</Inertia>
+</MassProperties>
+<GeometryFile name="Gear Link 1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.62431372549019615" g="0.60862745098039217" b="0.5929411764705883" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Gripper" uid="Gripper*:*Default" version="114">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Gripper.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0015997032514136612</Mass>
+<CenterOfMass>0.024608434200351526 0.0015000000000000002 -0.0036825247387653197</CenterOfMass>
+<Inertia>4.0435661754353838e-08 4.9479040271715826e-07 4.5675429583992488e-07 0 1.0015750409834783e-07 0</Inertia>
+</MassProperties>
+<GeometryFile name="Gripper_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.62431372549019615" g="0.60862745098039217" b="0.5929411764705883" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="link" uid="link*:*Default" version="109">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="link.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00040952356757313716</Mass>
+<CenterOfMass>0.015499999999999995 0.0015 0</CenterOfMass>
+<Inertia>1.1630543760508881e-09 5.7925644844933395e-08 5.7375581232314852e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="link_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.62431372549019615" g="0.60862745098039217" b="0.5929411764705883" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="pin" uid="pin*:*Default" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="pin.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00012409290981679687</Mass>
+<CenterOfMass>0 0.0070000000000000019 0</CenterOfMass>
+<Inertia>2.7893743022295152e-09 2.1814433988364144e-10 2.7893743022295152e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="pin_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Diffuse r="0.7803921568627451" g="0.76078431372549016" b="0.74117647058823533" a="1"/>
+<Specular r="0.62431372549019615" g="0.60862745098039217" b="0.5929411764705883" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
